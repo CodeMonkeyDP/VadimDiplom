@@ -1,0 +1,6 @@
+C:\Users\aleck\source\repos\Encription\CommonClasses\bin\Debug\CommonClasses.dll
+C:\Users\aleck\source\repos\Encription\CommonClasses\bin\Debug\CommonClasses.pdb
+C:\Users\aleck\source\repos\Encription\CommonClasses\obj\Debug\CommonClasses.csprojAssemblyReference.cache
+C:\Users\aleck\source\repos\Encription\CommonClasses\obj\Debug\CommonClasses.csproj.CoreCompileInputs.cache
+C:\Users\aleck\source\repos\Encription\CommonClasses\obj\Debug\CommonClasses.dll
+C:\Users\aleck\source\repos\Encription\CommonClasses\obj\Debug\CommonClasses.pdb
